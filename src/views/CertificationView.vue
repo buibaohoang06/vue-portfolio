@@ -22,8 +22,8 @@ import 'animate.css';
       <h5>Personal</h5>
       <p>Founder / CEO @ <a href='https://lunarweb.xyz'>Lunarweb Agency</a></p>
       <ul>
-        <li>Phil Keegan Ielts Website <a href='https://phil-keegan-ielts.com'>Link</a></li>
-        <li>Lunarweb x Vinschool Imperia Veart Project <a href="https://veart.co">Link</a> (Available for short time)</li>
+        <li>Phil Keegan Ielts Website <a href='https://phil-keegan-ielts.com'>Click to Visit</a></li>
+        <li>Lunarweb x Vinschool Imperia Veart Project <a href="https://veart.co">Click to Visit</a> (Available for short time)</li>
       </ul>
     </div>
   </div>
